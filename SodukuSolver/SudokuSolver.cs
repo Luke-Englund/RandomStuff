@@ -317,7 +317,6 @@ namespace SudokuSolver
             return false;
         }
 
-
         // Class to store row column pairs
         private class RowValuePair
         {
